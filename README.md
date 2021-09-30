@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm Julia, backend QA automation engineer
+I'm Julia, backend QA engineer
 
 ## Technology Stack
 <a href="https://www.jetbrains.com/idea/">
